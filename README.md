@@ -1,1 +1,1 @@
-# autotests_for_diff_language
+# autotests for different language of web pages by pytest and selenium
